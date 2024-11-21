@@ -1,0 +1,33 @@
+
+#container{
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-family: 'anton';
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+button{
+    background-color: blue;
+    border: 1px 2px 2px 1px solid black;
+    padding: 30px 90px;
+    color: white;
+    transform: all 0.1s;
+}
+button:hover{
+    background-color: green;
+}
+#output_quote, #output_author{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+    padding-top: 30px;
+}
